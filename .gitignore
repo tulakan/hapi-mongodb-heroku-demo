@@ -1,0 +1,17 @@
+.idea
+.idea/**
+.tmp
+.tmp/**
+.sass-cache
+.sass-cache/**
+.DS_Store
+public
+public/**
+node_modules
+node_modules/**
+bower_components
+bower_components/**
+**/*.js.map
+**/*.js.map
+app/.idea
+app/.idea/**
